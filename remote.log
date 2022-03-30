@@ -1,0 +1,1 @@
+3d82b038-eeb8-4a84-ac4b-3adf37a51b2b autoenable=true bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-MNI152NLin2009bSym/ host=s3.amazonaws.com name=s3 port=80 public=yes publicurl=https://templateflow.s3.amazonaws.com/ storageclass=STANDARD type=S3 versioning=yes timestamp=1648668141.96187s
