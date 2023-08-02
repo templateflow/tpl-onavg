@@ -40,6 +40,7 @@
 2a46505b-155a-4629-b9be-301ff36fb61d runner@fv-az180-129:~/work/tpl-MNIInfant/tpl-MNIInfant/templateflow timestamp=1630012486.226069s
 2c1e425b-a516-45e7-a202-4c93c9b528c7 root@da95f651bda9:/github/workspace/templateflow timestamp=1646385427.255251s
 2e0b560f-3060-4e2c-95c7-239b76ba6086 root@a6ea4a443e47:/github/workspace/templateflow timestamp=1630446774.165861s
+2f8fecb8-f2d2-47a9-be49-4f4a25be0fb6 onavg (OpenNeuro Average) surface template timestamp=1690975427.82761s
 307718d7-0114-4430-b759-89c51bff09e2 oesteban@dendrite:~/templateflow timestamp=1641373117.779027s
 3560d77f-d16f-42b1-8034-96f4da3786d4 git@9dc0e01d07ca:/data/repos/templateflow/tpl-mni152nlin2009aasym.git timestamp=1648664664.643407045s
 35d6c009-2ff6-4937-a214-2dfa4a846a1f ICBM 152 Nonlinear Asymmetrical template version 2009b timestamp=1648668641.1435s
