@@ -25,6 +25,7 @@
 19e23f99-a20a-42a5-8c87-6cf89edcd865 root@ba841aeed3da:/github/workspace/templateflow timestamp=1648141972.009248s
 1ce67321-7df7-4997-9b0f-d63fa6090b03 root@2cf288d61498:/github/workspace/templateflow timestamp=1648200979.569456s
 1ce8ebb4-5ff2-4088-a73e-e7d617eca89a root@822da29c2e74:/github/workspace/templateflow timestamp=1641325329.875881s
+1d4e1fa0-25dd-43bb-bfc2-7e1a5c1918a6 git@df53749a86e7:/data/repos/templateflow/tpl-onavg.git timestamp=1690976949.529936474s
 1e28488a-9afa-45b9-9201-b2ea2bd247e6 root@78d664e0233b:/github/workspace/templateflow timestamp=1641388482.274441s
 1eb4b33b-14cc-46cf-ac38-4716b1298e99 root@89dd2753b427:/github/workspace/templateflow timestamp=1646385478.747657s
 1f9f0f73-6892-4f40-b635-1f0d92cc3864 runner@fv-az32:~/work/tpl-fsaverage/tpl-fsaverage/templateflow timestamp=1587665375.898658s
@@ -92,6 +93,7 @@
 7d0a4035-fa5f-412e-98e7-1e631053c4ec root@53122cc9a1d2:/github/workspace/templateflow timestamp=1648199533.824701s
 7d3ecf40-158b-4178-8c85-f7babe356c6a git@9dc0e01d07ca:/data/repos/templateflow/tpl-mni152nlin2009asym.git timestamp=1648665922.56265177s
 7d6e5689-6e39-4bf0-9a9d-b74be40d854a root@8476624095e2:/github/workspace/templateflow timestamp=1630516622.511047s
+7fc31b9d-7e79-4f00-991c-ec9aea7df57f onavg (OpenNeuro Average) surface template timestamp=1690976939.748953s
 808d8911-ed4b-42ce-9b2f-6eccf5ea5261 root@08a0080fc83f:/github/workspace/templateflow timestamp=1630445653.043s
 860c6afd-8fc0-4f39-93b4-5ad1ef2f7233 root@cbeb1260b352:/github/workspace/templateflow timestamp=1690969332.196846s
 867ad126-5901-4fc1-b275-b499c4173549 root@8326e64c7356:/github/workspace/templateflow timestamp=1641324865.606845s
