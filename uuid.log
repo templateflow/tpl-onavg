@@ -109,6 +109,7 @@
 8ecc7012-a931-4016-b445-0f09f3ac6a92 runner@fv-az121:~/work/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym/templateflow timestamp=1587665472.897048s
 900a4f76-396a-4d44-be6c-0c40c04bf6a2 root@df929a219300:/github/workspace/templateflow timestamp=1630446837.544377s
 9310e0ab-4724-478c-9e81-f62727a74717 runner@fv-az32:~/work/tpl-MNI152NLin2009cSym/tpl-MNI152NLin2009cSym/templateflow timestamp=1587665455.017396s
+9701729f-7e38-464d-928e-61b24600ab10 git@0f827bfc83f9:/data/repos/templateflow/tpl-onavg.git timestamp=1690980176.640513054s
 981c5c6b-4f3d-4b58-bd1f-421308bebf21 root@d92f5641679e:/github/workspace/templateflow timestamp=1630514709.148734s
 9917dc08-ecc8-4bd6-b673-6ad0925259bb root@ceb2471ff3f7:/github/workspace/templateflow timestamp=1690977055.596586s
 997ce40c-eec4-4f12-ae01-e13299bfa48f oesteban@oscars-MacBook-Pro.local:~/templateflow timestamp=1636828521.649346s
@@ -141,6 +142,7 @@ c9fadbe5-da24-45c3-b13e-23327dd33b1b root@1f2a00cd7723:/github/workspace/templat
 ca93e41f-9c90-4c1d-974a-817fcafba701 root@52f40f7f28f5:/github/workspace/templateflow timestamp=1648706042.815532s
 cbe60122-37d9-43bf-bad3-8c8c321b536f root@fcf36906c259:/github/workspace/templateflow timestamp=1639298744.225907s
 cc0a457d-c7bb-454f-92e1-6c9973455656 root@88738760638a:/github/workspace/templateflow timestamp=1630503839.664697s
+cc2a0eb1-128e-4b72-86d5-7e92240914c3 OpenNeuro Average (onavg) surface template timestamp=1690980166.106195s
 cd357049-3d64-4af0-9e6d-08aad18e2f58 root@e031f808b145:/github/workspace/templateflow timestamp=1690976937.735322s
 cebfc798-adc3-4c8c-b7e2-554d09b86c5f root@48c50c4043b8:/github/workspace/templateflow timestamp=1639298900.852897s
 cf7f5e9d-24b7-4a58-94af-68b59278f5e5 root@0169459079e0:/github/workspace/templateflow timestamp=1630483288.154707s
