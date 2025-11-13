@@ -1,0 +1,2 @@
+05dfa999-38c6-4a64-97d4-4f9a49a9561d autoenable=true bucket=templateflow datacenter=US encryption=none exporttree=yes fileprefix=tpl-onavg/ host=s3.amazonaws.com name=s3 port=80 public=no publicurl=https://templateflow.s3.amazonaws.com/ storageclass=STANDARD type=S3 versioning=yes timestamp=1763056629s
+9701729f-7e38-464d-928e-61b24600ab10 autoenable=true location=https://gin.g-node.org/templateflow/tpl-onavg name=gin-src type=git timestamp=1746029962s
